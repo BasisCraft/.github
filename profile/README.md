@@ -5,7 +5,7 @@
 ## Hey there, Minecrafters! 👋 | 你好，Minecraft玩家们！👋
 
 We're a group of BASIS China students who absolutely LOVE Minecraft. If you eat, sleep, and breathe blocks, you've found your new home! 🏡✨
-我们是一群来自中国BASIS的学生，绝对热爱Minecraft。如果你整天想着 Minecraft，那你找对地方了！🏡✨
+我们是一群来自中国BASIS的学生，绝对热爱Minecraft。如果你整天想着我的世界，那你找对地方了！🏡✨
 
 ## What We're All About 🌟 | 我们的宗旨 🌟
 
@@ -46,4 +46,4 @@ Got questions or just want to say hi? Reach out to us on Wechat. We can't wait t
 ---
 
 Copyright © 2024 BasisCraft Network. All Rights Reserved.
-版权所有 © 2024 BasisCraft 网络。保留所有权利。
+版权所有 © 2024 BasisCraft Network。保留所有权利。
