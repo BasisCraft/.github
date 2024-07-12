@@ -50,5 +50,5 @@ Copyright © 2024 BasisCraft Network. All Rights Reserved.
 
 ---
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=BasisCraft) | Admin with this badge are authorized: ![Static Badge](https://img.shields.io/badge/BasisCraft-Authorized_Admin-Orange?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FBasisCraft)
+![Profile View Counter](https://komarev.com/ghpvc/?username=BasisCraft) | Admin with this badge are authorized:  ![Static Badge](https://img.shields.io/badge/BasisCraft-Authorized_Admin-Orange?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FBasisCraft) 
 
