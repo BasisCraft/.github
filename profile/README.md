@@ -50,7 +50,7 @@ Copyright © 2024 BasisCraft Network. All Rights Reserved.
 
 ---
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=BasisCraft) |
+<div align="center"> ![Profile View Counter](https://komarev.com/ghpvc/?username=BasisCraft) </div>
 
 <div align="center"> Admin with this badge are authorized:  </div> <div align="center">
     <a href="https://github.com/BasisCraft">
