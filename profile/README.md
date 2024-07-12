@@ -47,3 +47,7 @@ Got questions or just want to say hi? Reach out to us on Wechat. We can't wait t
 
 Copyright © 2024 BasisCraft Network. All Rights Reserved.
 版权所有 © 2024 BasisCraft Network。保留所有权利。
+
+---
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=BasisCraft)
