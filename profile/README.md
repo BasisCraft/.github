@@ -5,7 +5,7 @@
 ## Hey there, Minecrafters! 👋 | 你好，Minecraft玩家们！👋
 
 We're a group of BASIS China students who absolutely LOVE Minecraft. If you eat, sleep, and breathe blocks, you've found your new home! 🏡✨
-我们是一群来自中国BASIS的学生，绝对热爱Minecraft。如果你整天想着我的世界，那你找对地方了！🏡✨
+我们是一群来自中国BASIS的学生，绝对热爱Minecraft。如果你整天都想着我的世界，那你找对地方了！🏡✨
 
 ## What We're All About 🌟 | 我们的宗旨 🌟
 
@@ -13,7 +13,7 @@ At BasisCraft Network, we believe in the power of imagination and creativity. Ou
 在 BasisCraft 网络，我们相信想象力和创造力的力量。我们的社区宗旨是：
 
 - **Building Epic Stuff on SMP**: Castles, cities, rollercoasters – if you can dream it, you can build it! 🏰🚀
-- **在SMP上建造史诗般的东西**：城堡、城市、过山车——如果你能梦想它，你就能建造它！🏰🚀
+- **在SMP上建造史诗般的东西**：城堡、城市、过山车——如果你能想象它，你就能建造它！🏰🚀
 
 - **Epic Adventures on Minigames**: Explore mysterious lands, conquer dungeons, and uncover hidden treasures. 🗺️🏆
 - **在Minigames中进行史诗般的冒险**：探索神秘的土地，征服地下城，发现隐藏的宝藏。🗺️🏆
