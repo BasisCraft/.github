@@ -51,8 +51,6 @@ Copyright © 2024 BasisCraft Network. All Rights Reserved.
 ---
 
 <div align="center"> Admin with this badge and are in this github organization are authorized:  </div> <div align="center">
-    <a href="https://github.com/BasisCraft">
     <iframe src="https://www.basiscraft.top/%E5%88%97%E8%A1%A8.html" frameborder="0"></iframe>
-</a>
 </div>
       
